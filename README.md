@@ -16,7 +16,7 @@ This simple Python-based QR Code Generator allows users to generate custom QR co
 
 ### Install the required dependencies
 ```sh
-pip install qrcode[pil]
+pip install qrcode
 ```
 
 ## Usage
